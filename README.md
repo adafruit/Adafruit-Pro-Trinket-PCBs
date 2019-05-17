@@ -2,7 +2,7 @@
 <a href="http://www.adafruit.com/products/2000"><img src="assets/2000.jpg?raw=true" width="400px"></a>&nbsp; <a href="http://www.adafruit.com/products/2010"><img src="assets/2010.jpg?raw=true" width="400px"></a><br />
 Click to purchase from the Adafruit Shop:
 - [5V 16 MHz Pro Trinket](https://www.adafruit.com/product/2000)
-- [3V 12 MHz Pro Trinket](https://www.adafruit.com/product/2310)
+- [3V 12 MHz Pro Trinket](https://www.adafruit.com/product/2010)
 
 Pro Trinket combines everything you love about Trinket with the familiarity of the common core Arduino chip, the ATmega328. It's like an Arduino Pro Mini with more pins and USB tossed in, so delicious.
 
